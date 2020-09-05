@@ -5,6 +5,7 @@ https://clone-cbcb7.web.app/
 Amazon clone is a web application built with Reactjs, Material UI, and Flexbox on the frontend to provide users with an E-commerce user-experience similar to that of Amazon. It's a dynamic single-page application using the React-router and the React Context API which enabled an essential data layer to avoid prop-drilling throughout the app. Moreover, the application does provide user authentication and shopping cart functionalities.  The application is fully responsive across all devices if your viewing on mobile devices landscape mode provides the optimal experience.
 
 Technologies Used:
+
 | React js
 | Material UI
 | Flexbox
